@@ -1,0 +1,208 @@
+.Container{
+    background-color: rgb(66, 62, 62);
+}
+body{
+    height: 10000;
+    width: 10000;
+}
+header{
+  background-color:rgba(255, 54, 54, 1); 
+  width: 1440px ; 
+  height:93.23px ;
+  margin-left: auto;
+  margin-right: auto;
+}
+.logo {
+    
+      position: absolute; top: -20px; 
+}
+nav   {
+    background-color:rgba(255, 54, 54, 1); 
+  width: 720px ; 
+  height:93.23px ;
+  margin-left: auto;
+  text-align: center;
+  text-decoration: none;
+  text-decoration: black;
+  padding-left: 40px;
+  }
+ a {
+     position: relative;
+    text-decoration: none;
+    padding-left: 30px ;
+    padding-right: 20px ;
+    font-size: 23px;
+    font-family: c;
+    text-decoration-color: black;
+    margin-left: 50px;
+    top:30px; 
+
+}
+.biperson{
+
+    position: absolute;
+    right: 15px;
+    top: 15px ;
+
+}
+a {
+    color: black;
+    padding-top: 20px;
+
+}
+ 
+
+
+main{
+    margin-left: 32px;
+    margin-right: auto;
+    position: absolute;
+  background-color:rgb(252, 248, 248); 
+  width: 1440px ; 
+  height:1737px ;
+  
+}
+.tag1{
+    
+    position: static;
+    border-style: solid;
+    height: 352px;
+width: 630px;
+border-radius: 20px;
+margin-top: 200px;
+margin-left:725px ;
+margin-bottom: 10px;
+}
+.tag2{
+    position: relative fixed;
+    border-style: solid;
+    height: 352px;
+width: 630px;
+border-radius: 20px;
+margin-top: 10px;
+margin-left:725px ;
+
+
+
+
+}
+.tag3{
+    position: absolute;
+    border-style: solid;
+    height: 352px;
+width: 630px;
+border-radius: 20px;
+margin-top: 10px;
+margin-left:725px ; 
+
+}
+.tag4{
+    position: absolute;
+    border-style: solid;
+    height: 352px;
+width: 630px;
+border-radius: 20px;
+margin-left:75px ;
+margin-top: 2px;
+
+}
+.tag5{
+    position: absolute;
+    border-style: solid;
+    height: 352px;
+width: 630px;
+border-radius: 20px;
+margin-left: 75px;
+margin-top:10px ;
+
+}
+.Order{
+    position: absolute;
+    width: 444px;
+    height: 352px;
+    
+    background: #C5C5C5;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 176px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+h1{
+    font-family: Rancho;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: 0em;
+position: relative;
+bottom: 30px;
+
+
+}
+p{
+    font-family: Cabin;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+height: 147px;
+width: 313px;
+left: 235px;
+top: -86px;
+border-radius: nullpx;
+
+
+}
+h2{
+width: 93px;
+left: 225px;
+border-radius: undefinedpx;
+font-family: Microsoft Uighur;
+font-size: 64px;
+position: relative;
+top: -40px;
+
+
+}
+.botton1{
+    position:absolute;
+    margin-top: -147px ;
+    margin-left: 30px ;
+}
+
+
+form{
+    position: relative;
+    margin-left: 140px;
+    margin-bottom: 5px;
+    margin-top: 70px;
+
+    
+}
+.orderbar{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 45px;
+    
+} 
+.pics{
+    position: relative;
+    bottom: 446px;
+    margin-left:355px ;
+}
+.foot{
+    position: absolute;
+width: 1130px;
+height: 227px;
+left: 145px;
+top: 1431px;
+
+}
+footer{
+    background-color:rgba(255, 54, 54, 1); 
+    margin-left: auto;
+    margin-right: auto;  
+}
